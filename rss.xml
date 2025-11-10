@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Mohammed Ahmed</title>
+    <link>https://example.com/</link>
+    <description>Reflections on technology, travel, and life.</description>
+    <language>en-us</language>
+    <item>
+      <title>Na-ve-min (My Name): On Gifts, Nicknames, and Assumptions</title>
+      <link>https://example.com/posts/na-ve-min-my-name.html</link>
+      <pubDate>Sun, 26 Oct 2025 04:31:43 +0000</pubDate>
+      <description>Our names are the first gifts we’re given — non-returnable, but often exchanged. This is a reflection on mine: Mohammed, Moe, Watermelon — and the expectations that come with each.</description>
+    </item>
+  </channel>
+</rss>
